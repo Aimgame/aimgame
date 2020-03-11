@@ -1,2 +1,0 @@
-# aimgame
-The aim game.
